@@ -39,6 +39,8 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 ```
 
 ## Output:
+![o](https://github.com/kaviyabalaji/Experiment-3--Hidden-Markov-Model/blob/main/exp5.png)
+![o](https://github.com/kaviyabalaji/Experiment-3--Hidden-Markov-Model/blob/main/expp5.png)
 
 
 
